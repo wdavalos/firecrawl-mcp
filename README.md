@@ -1,5 +1,6 @@
 # Firecrawl MCP
 
+**Run it on the Apify Store:** https://apify.com/red.cars/firecrawl-mcp
 > [ScraperFleet data page](https://scraperfleet.com/actors/firecrawl-mcp/)
 API-based web scraping MCP server for AI agents.
 
